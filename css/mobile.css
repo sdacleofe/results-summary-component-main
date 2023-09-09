@@ -1,0 +1,28 @@
+@media only screen and (max-width: 640px) {
+    body {
+        justify-content: unset;
+        align-items: unset;
+    }
+    .parent {
+        display: unset;
+        margin: 0px;
+    }
+    section.score-board {
+        border-radius: 0px 0px 40px 40px;
+    }
+    section.score-board .item {
+        padding: 15px 0px;
+    }
+    section.score-summary {
+        border-radius: unset;
+    }
+    section.score-summary {
+        padding: 40px;
+    }
+    section.score-summary .item {
+        margin: 10px 0px;
+    }
+    footer.attribution {
+        display: none;
+    }
+}
