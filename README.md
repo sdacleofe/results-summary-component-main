@@ -38,7 +38,7 @@ Mobile Preview
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-MefqDhfSVB)
-- Live Site URL: [Result Summary Layout](https://www.frontendmentor.io/solutions/results-summary-component-MefqDhfSVB)
+- Live Site URL: [Result Summary Layout](https://github.com/sdacleofe/results-summary-component-main)
 
 ## My process
 
